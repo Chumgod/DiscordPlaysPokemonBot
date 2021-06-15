@@ -21,9 +21,6 @@ setuptools~=51.1.2
 Cython~=0.29.21
 
 Usage instructions:
-
 Change the DISCORD_TOKEN variable in key.env to your bot token
-
 Change the adminID variable in main.py to your discord ID
-
 Change the command-line arguments in your IDE(or input them manually) to your rom location. Example "C:\PokemonRed\PokemonRed.gb"
